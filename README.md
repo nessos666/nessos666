@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/nessos666/coding-tentacle"><img src="https://img.shields.io/badge/Featured-🦑_Coding_Tentacle-blueviolet?style=for-the-badge"></a>
-  <a href="mailto:david@example.com"><img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge"></a>
+  <a href="mailto:nessos6666@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge"></a>
 </p>
 
 ---
