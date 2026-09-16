@@ -26,6 +26,61 @@ OpenCode writes fixes. Coding Tentacle analyzes, blocks dangerous changes, requi
 
 ---
 
+---
+
+## 🔬 Featured Open-Source Tools
+
+Three production-ready tools — **no API keys required**, MIT licensed, CI-tested on Python 3.10/3.11/3.12.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔬 Wissenschaft
+**148 key-free academic sources** searched in parallel.
+
+Give it a topic, get a PRISMA dossier with ranked, verified papers.
+
+- 4-agent pipeline (Researcher → Verifier → Synthesis → Reviewer)
+- Citation snowballing
+- Zero API keys
+
+→ [**Repo**](https://github.com/nessos666/wissenschaft)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔍 SUCHER-1000
+**40+ sources** in parallel — web *and* academic.
+
+Keeps working when every other search tool fails.
+
+- Multi-engine fallback chain
+- Key-free
+- Built-in FTS5 archive
+
+→ [**Repo**](https://github.com/nessos666/sucher-1000)
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 Extraktor
+**Turn AI conversations into durable memory.**
+
+Quality gates decide what is worth keeping — and what is noise.
+
+- 5 gates, 2 mandatory
+- Dedup at 0.85 similarity
+- Qdrant-backed
+
+→ [**Repo**](https://github.com/nessos666/extraktor)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🧠 How I Work
 
 I don't just write code. I build **systems with intelligence**.
@@ -73,6 +128,9 @@ I don't just write code. I build **systems with intelligence**.
 |---------|-------------|
 | [**chart-vision-mcp**](https://github.com/nessos666/chart-vision-mcp) | Local TradingView chart analysis via OpenCV + Tesseract OCR. |
 | [**tv-watch-agent**](https://github.com/nessos666/tv-watch-agent) | Automated TradingView chart watcher — CDP-based screenshot agent. |
+| [**wissenschaft**](https://github.com/nessos666/wissenschaft) | 148 key-free academic sources in parallel → PRISMA dossier. Citation snowballing. |
+| [**sucher-1000**](https://github.com/nessos666/sucher-1000) | 40+ web & academic sources in parallel. Multi-engine fallback, FTS5 archive. |
+| [**extraktor**](https://github.com/nessos666/extraktor) | Extract durable knowledge from AI chats into Qdrant. 5 quality gates. |
 | [**graveyard**](https://github.com/nessos666/graveyard) | Archived experimental projects. |
 
 ---
